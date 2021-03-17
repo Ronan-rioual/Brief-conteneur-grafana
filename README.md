@@ -7,10 +7,9 @@
   -1 conteneur pour phpmyadmin
   -1 conteneur pour grafana
  
+ lancer WSL, filezilla, se connecter au serveur et y envoyer les fichiers.
  
- Se mettre dans le répertoire des fichier, lancer la commande
- 
- docker-compose up -d
+ Se mettre dans le répertoire des fichier, lancer la commande => docker-compose up -d
  
  les conteneurs se sont créés
  
@@ -20,4 +19,4 @@ se connecter au conteneur graphana (localhost port 3000): user/mdp : admin/admin
 
 ajouter à une source de données à partir de graphana (Data source)
 
-créer les graphs voulu
+créer les graphs voulu.
