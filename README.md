@@ -19,4 +19,4 @@ se connecter au conteneur graphana (localhost port 3000): user/mdp : admin/admin
 
 ajouter à une source de données à partir de graphana (Data source)
 
-créer les graphs voulu.
+créer les graphs voulu. Nous avons un Json qui permet de recréer les graphs
